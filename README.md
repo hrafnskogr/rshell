@@ -18,5 +18,6 @@ ARGS:
 ### TODO
 - Better error handling to escape the current unwrap hell
 - In some cases the process is not closed when the server closes the connection
+- Better threading to avoid the clumsy send/recv behaviour
 - Implement it over the Blockchain
 - Make it AI Driven so it is NextGen
